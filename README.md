@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirandotru
+- 👋 Hi, I’m @kirandotru (Kirill Vasilyev)
 - 👀 I’m interested in find a job in the IT field (junior python developer, junior data-analyst)
 - 🌱 I’m currently learning Python, SQL, PostgreSQL, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on IT-company
